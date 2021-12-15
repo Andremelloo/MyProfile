@@ -50,7 +50,7 @@ $container-max-widths: (
     position: relative;
     color: inherit;
     padding: .9375rem;
-    font-weight: 400;
+    font-weight: 100;
     font-size: 12px;
     border-radius: 3px;
     line-height: 20px;
